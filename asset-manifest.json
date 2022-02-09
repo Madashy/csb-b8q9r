@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "https://madashy.github.io/csb-b8q9r/static/js/main.ba76bfa0.chunk.js",
-    "main.js.map": "https://madashy.github.io/csb-b8q9r/static/js/main.ba76bfa0.chunk.js.map",
+    "main.js": "https://madashy.github.io/csb-b8q9r/static/js/main.a7b1f1a8.chunk.js",
+    "main.js.map": "https://madashy.github.io/csb-b8q9r/static/js/main.a7b1f1a8.chunk.js.map",
     "runtime-main.js": "https://madashy.github.io/csb-b8q9r/static/js/runtime-main.bc1acc1c.js",
     "runtime-main.js.map": "https://madashy.github.io/csb-b8q9r/static/js/runtime-main.bc1acc1c.js.map",
-    "static/js/2.3b8853ed.chunk.js": "https://madashy.github.io/csb-b8q9r/static/js/2.3b8853ed.chunk.js",
-    "static/js/2.3b8853ed.chunk.js.map": "https://madashy.github.io/csb-b8q9r/static/js/2.3b8853ed.chunk.js.map",
+    "static/js/2.f478725d.chunk.js": "https://madashy.github.io/csb-b8q9r/static/js/2.f478725d.chunk.js",
+    "static/js/2.f478725d.chunk.js.map": "https://madashy.github.io/csb-b8q9r/static/js/2.f478725d.chunk.js.map",
     "index.html": "https://madashy.github.io/csb-b8q9r/index.html",
-    "static/js/2.3b8853ed.chunk.js.LICENSE.txt": "https://madashy.github.io/csb-b8q9r/static/js/2.3b8853ed.chunk.js.LICENSE.txt"
+    "static/js/2.f478725d.chunk.js.LICENSE.txt": "https://madashy.github.io/csb-b8q9r/static/js/2.f478725d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bc1acc1c.js",
-    "static/js/2.3b8853ed.chunk.js",
-    "static/js/main.ba76bfa0.chunk.js"
+    "static/js/2.f478725d.chunk.js",
+    "static/js/main.a7b1f1a8.chunk.js"
   ]
 }
